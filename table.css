@@ -206,7 +206,7 @@ color:#f0c328 !important;
 /* - - - - - - - - - Header Section - - - */
 
 #pricing-container .price-card--header {
-	background-color: #daf1df;
+	background-color: #F7E597;
 	margin: 0;
 	padding: 20px 0;
 	text-align: center;
@@ -251,7 +251,7 @@ color:#f0c328 !important;
 }
 
 #pricing-container .price-card--price-number:after {
-	content: "/month";
+	content: "/mes";
 	font-size: 12px;
 	display: inline-block;
 	color: grey;
@@ -264,7 +264,7 @@ color:#f0c328 !important;
 }
 
 #pricing-container .price-card--onboarding-fee {
-	color: green;
+	color: #F66161;
 }
 
 #pricing-container .price-card--onboarding-fee.has-fee {
@@ -359,7 +359,7 @@ color:#f0c328 !important;
 }
 
 #pricing-container .price-card--hero-text {
-	background-color: #F57200;
+	background-color: #F66161;
 	height: 38px;
 	color: white;
 	line-height: 38px;
@@ -459,7 +459,7 @@ color:#f0c328 !important;
 	left: 0;
 	right: 0;
 	bottom: 0;
-	background-color: #F57200;
+	background-color: #F66161;
 	border-radius: 34px;
 	-webkit-transition: 0.1s;
 	transition: 0.1s;
