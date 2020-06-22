@@ -1,4 +1,4 @@
-# pricing-table123
+# Pricing-table123
 Tabla de precios con animaciones y calculos automatizados
 
 
@@ -7,5 +7,5 @@ Tabla de precios con animaciones y calculos automatizados
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 
-# vista previa
+# Vista previa
 ![Vista previa](https://github.com/Jen456/pricing-table123/blob/master/table.html.png)
