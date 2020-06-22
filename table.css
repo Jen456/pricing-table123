@@ -245,7 +245,7 @@ color:#f0c328 !important;
 #pricing-container .price-card--price-number:before {
 	content: "$";
 	font-size: 24px;
-	top: -16px;
+	top: -50 px;
 	display: inline-block;
 	position: relative;
 }
